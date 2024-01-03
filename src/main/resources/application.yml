@@ -1,0 +1,4 @@
+quarkus:
+  banner:
+    enabled: true
+    path: /banner/banner.txt
