@@ -2,3 +2,6 @@ quarkus:
   banner:
     enabled: true
     path: /banner/banner.txt
+  smallrye-openapi:
+    path: /swagger
+    info-title: Quarkus Learning
